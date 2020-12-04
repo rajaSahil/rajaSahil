@@ -1,6 +1,6 @@
-<h1 align="center">Hello World!<img src="https://github.com/rajaSahil/rajaSahil/blob/main/images/Hi.gif" width="40px" />, I'm Sahil</h1>
+<h1 align="center"><img src="https://github.com/rajaSahil/rajaSahil/blob/main/images/Hi.gif" width="40px" />Hello World! I'm Sahil</h1>
 <h3 align="center">A passionate developer from India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaSahil" alt="rajaSahil" /> </p>
 <!--
 **rajaSahil/rajaSahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
