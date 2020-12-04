@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hello World!<img src="https://github.com/rajaSahil/rajaSahil/blob/main/images/Hi.gif" width="40px" />, I'm Sahil</h1>
+<h3 align="center">A passionate developer from India</h3>
 
 <!--
 **rajaSahil/rajaSahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
