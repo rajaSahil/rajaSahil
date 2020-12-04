@@ -56,4 +56,4 @@
 
 ---
 
-<img align="left" alt="Sahil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rajaSahil&count_private=true&show_icons=true" />
+<img align="left" alt="Sahil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rajaSahil&hide_border=true&count_private=true&show_icons=true" />
