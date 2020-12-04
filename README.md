@@ -26,6 +26,8 @@
 - 🌱 I’m currently learning **Distributed systems**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **tech related stuffs**.
-- 📫 How to reach me: [Sahil Raja](https://www.linkedin.com/in/sahil-raja-1422b5143/)
+- 📫 How to reach me: [<a href="https://www.linkedin.com/in/sahil-raja-1422b5143/">
+  <img align="center" alt="" width="23px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/icons8-linkedin.svg" />
+</a>](https://www.linkedin.com/in/sahil-raja-1422b5143/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love **coding**:computer: and **cats**:cat:.
