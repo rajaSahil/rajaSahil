@@ -52,6 +52,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding OAuth 2.0](https://medium.com/swlh/understanding-oauth-2-0-dc7ef422d915?source=rss-ddb3282b3e4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
