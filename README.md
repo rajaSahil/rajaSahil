@@ -1,5 +1,5 @@
-<h2 align="left">Hi there! I'm Sahil Raja<img src="https://github.com/rajaSahil/rajaSahil/blob/main/images/Hi.gif" width="40px" /></h2>
-<h4 align="left">A passionate developer from India :india:.</h4>
+<h1 align="center">Hi <img src="https://github.com/rajaSahil/rajaSahil/blob/main/images/Hi.gif" width="40px" />, I'm Sahil</h1>
+<h3 align="center">A passionate developer from India:india:.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaSahil" alt="rajaSahil" /> </p>
 <br />
    
