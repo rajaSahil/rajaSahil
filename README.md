@@ -20,7 +20,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaSahil" alt="rajaSahil" /> </p>
 <br />
-   
 
 - 🔭 I’m currently working on **Java** and **Kubernetes**.
 - 🌱 I’m currently learning **Distributed systems**.
@@ -28,8 +27,8 @@
 - 💬 Ask me about **tech related stuffs**.
 - 📫 How to reach me: [<a href="https://www.linkedin.com/in/sahil-raja-1422b5143/">
   <img align="center" alt="" width="23px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/icons8-linkedin.svg" />
-</a>](https://www.linkedin.com/in/sahil-raja-1422b5143/)
-- 😄 Pronouns: He/Him
+  </a>](https://www.linkedin.com/in/sahil-raja-1422b5143/)
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love **coding**:computer: and **cats**:cat:.
 
 <br />
@@ -47,6 +46,13 @@
 
 <br />
 <br />
+
+---
+
+## 📕 Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
