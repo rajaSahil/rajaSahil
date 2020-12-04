@@ -30,7 +30,6 @@
   </a>](https://www.linkedin.com/in/sahil-raja-1422b5143/)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love **coding**:computer: and **cats**:cat:.
-
 <br />
 
 ### Languages and Tools:
