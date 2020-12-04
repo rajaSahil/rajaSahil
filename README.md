@@ -25,7 +25,9 @@
 - 🌱 I’m currently learning **Distributed systems**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **tech related stuffs**.
-- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-sahilraja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-raja-1422b5143/)](https://www.linkedin.com/in/sahil-raja-1422b5143/) [![Gmail Badge](https://img.shields.io/badge/-sahilraja242@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilraja242@gmail.com)](mailto:sahilraja242@gmail.com)
+- 📫 How to reach me: [<a href="https://www.linkedin.com/in/sahil-raja-1422b5143/">
+  <img align="center" alt="" width="23px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/icons8-linkedin.svg" />
+  </a>](https://www.linkedin.com/in/sahil-raja-1422b5143/)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love **coding**:computer: and **cats**:cat:.
 <br />
