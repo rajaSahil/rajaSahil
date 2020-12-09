@@ -2,19 +2,19 @@
 
 <p align="center">
    <a href="https://www.hackerearth.com/@sahilraja242" >
-  <img align="center" alt="" margin="5px" width="30px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/hackerearth.png" />
+  <img align="center"  margin="5px" width="30px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/hackerearth.png" />
 </a>
 <a href="https://www.hackerrank.com/sahilraja242">
-  <img align="center" alt="" margin="5px" width="30px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/logo%20hackerrank%20icon.png" />
+  <img align="center"  margin="5px" width="30px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/logo%20hackerrank%20icon.png" />
 </a>
 <a href="https://www.linkedin.com/in/sahil-raja-1422b5143/">
-  <img align="center" alt="" margin="5px" width="35px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/icons8-linkedin.svg" />
+  <img align="center" margin="5px" width="35px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/icons8-linkedin.svg" />
 </a>
 <a href="https://www.codechef.com/users/sahil_0071">
-  <img align="center" alt="" margin="5px" width="35px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/codechef.png" />
+  <img align="center" margin="5px" width="35px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/codechef.png" />
 </a>
 <a href="https://medium.com/@sahilraja242">
-  <img align="center" alt="" width="25px" margin="35px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/medium.png" />
+  <img align="center"  width="25px" margin="35px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/medium.png" />
 </a>
 </p>
 
