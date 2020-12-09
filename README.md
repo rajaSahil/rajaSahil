@@ -5,7 +5,7 @@
   <img align="center" alt="" margin="5px" width="25px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/hackerearth_logo.svg" />
 </a>
 <a href="https://www.hackerrank.com/sahilraja242">
-  <img align="center" alt="" margin="5px" width="30px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/icons8-hackerrank.svg" />
+  <img align="center" alt="" margin="5px" width="30px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/logo%20hackerrank%20icon.png" />
 </a>
 <a href="https://www.linkedin.com/in/sahil-raja-1422b5143/">
   <img align="center" alt="" margin="5px" width="35px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/icons8-linkedin.svg" />
