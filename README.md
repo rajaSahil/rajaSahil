@@ -11,7 +11,7 @@
   <img align="center" alt="" margin="5px" width="35px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/icons8-linkedin.svg" />
 </a>
 <a href="https://www.codechef.com/users/sahil_0071">
-  <img align="center" alt="" margin="5px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="center" alt="" margin="5px" width="35px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/codechef.png" />
 </a>
 <a href="https://medium.com/@sahilraja242">
   <img align="center" alt="" width="25px" margin="5px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
