@@ -51,7 +51,7 @@
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring/Observability](https://sahilraja242.medium.com/monitoring-observability-3fda4c33305e?source=rss-ddb3282b3e4d------2)
+- [Monitoring/Observability](https://medium.com/swlh/monitoring-observability-3fda4c33305e?source=rss-ddb3282b3e4d------2)
 - [Understanding OAuth 2.0](https://medium.com/swlh/understanding-oauth-2-0-dc7ef422d915?source=rss-ddb3282b3e4d------2)
 <!-- BLOG-POST-LIST:END -->
 
