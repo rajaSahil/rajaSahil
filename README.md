@@ -22,7 +22,7 @@
 <br />
 
 - 🔭 I’m currently working on MayaStor Storage Engine's Development using **Rust**.
-- 🔭 I have been primarily working with Golang and Kubernetes
+- 🔭 I have been primarily working with **Golang** and **Kubernetes**.
 - 🌱 I’m currently learning **Distributed systems**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **tech related stuffs**.
