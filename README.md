@@ -21,8 +21,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaSahil" alt="rajaSahil" /> </p>
 <br />
 
-- 🔭 I’m currently working on MayaStor Storage Engine's Development using **Rust**.
-- 🔭 I have been primarily working with **Golang** and **Kubernetes**.
+- 🔭 I’m a Software Engineer working primarily in **Golang**, **Kubernetes** and **Rust**.
 - 🌱 I’m currently learning **Distributed systems**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **tech related stuffs**.
