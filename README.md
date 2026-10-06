@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img src="assets/terminal.svg" alt="Sahil Raja — software engineer working with Go, Kubernetes, Rust and eBPF" width="760" /></a>
+  <a href="#terminal"><img src="assets/terminal.svg" alt="Sahil Raja — software engineer working with Go, Kubernetes, Rust and eBPF" width="760" /></a>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
   <a href="https://medium.com/@sahilraja242"><img src="assets/btn-blog.svg" alt="writing" height="38" /></a>
 </p>
 
-<a><img src="assets/h-oss.svg" alt="ls ~/open-source" width="760" /></a>
+<a href="#h-oss"><img src="assets/h-oss.svg" alt="ls ~/open-source" width="760" /></a>
 
 <p align="center">
   <a href="https://github.com/openebs/monitoring"><img src="assets/p-monitoring.svg" alt="openebs/monitoring" width="375" /></a>
@@ -18,9 +18,9 @@
   <a href="https://github.com/kubernetes/kubernetes"><img src="assets/p-kubernetes.svg" alt="kubernetes/kubernetes" width="375" /></a>
 </p>
 
-<a><img src="assets/h-stack.svg" alt="cat ~/stack" width="760" /></a>
+<a href="#h-stack"><img src="assets/h-stack.svg" alt="cat ~/stack" width="760" /></a>
 
-<a><img src="assets/stack.svg" alt="Go, Rust, Kubernetes, eBPF, Prometheus, Grafana, Helm, Docker, Linux, gRPC, Jsonnet" width="760" /></a>
+<a href="#stack"><img src="assets/stack.svg" alt="Go, Rust, Kubernetes, eBPF, Prometheus, Grafana, Helm, Docker, Linux, gRPC, Jsonnet" width="760" /></a>
 
 <a href="https://medium.com/@sahilraja242"><img src="assets/h-writing.svg" alt="tail ~/writing" width="760" /></a>
 
@@ -41,5 +41,5 @@
 
 
 <p align="center">
-  <a><img src="assets/footer.svg" alt="" width="760" /></a>
+  <a href="#footer"><img src="assets/footer.svg" alt="" width="760" /></a>
 </p>
