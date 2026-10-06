@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="56" viewBox="0 0 760 56" role="img" aria-label="a cat strolling by">
+<style>
+  .bg{fill:#ffffff;stroke:#d0d7de}
+  .fg{fill:#1f2328}.mute{fill:#656d76}.acc{fill:#0969da}.ok{fill:#1a7f37}
+  .ln{stroke:#d0d7de}
+  @media (prefers-color-scheme: dark){
+    .bg{fill:#0d1117;stroke:#30363d}
+    .fg{fill:#e6edf3}.mute{fill:#8b949e}.acc{fill:#58a6ff}.ok{fill:#3fb950}
+    .ln{stroke:#30363d}
+  }
+  text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:15px}
+</style>
+<line x1="0" y1="44" x2="760" y2="44" class="ln" stroke-dasharray="2 6"/>
+<g>
+  <animateTransform attributeName="transform" type="translate" values="-40 0;800 0" dur="14s" repeatCount="indefinite"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="0.5s" repeatCount="indefinite"/>
+    <text x="0" y="40" style="font-size:24px" transform="scale(-1,1)" text-anchor="middle">🐈</text>
+  </g>
+</g>
+</svg>

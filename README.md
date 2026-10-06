@@ -1,58 +1,52 @@
-<h1 align="center">Hi <img src="https://github.com/rajaSahil/rajaSahil/blob/main/images/Hi.gif" width="40px" />, I'm Sahil</h1>
-<!--
 <p align="center">
-   <a href="https://www.hackerearth.com/@sahilraja242" >
-  <img align="center"  margin="5px" width="30px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/hackerearth.png" />
-</a>
-<a href="https://www.hackerrank.com/sahilraja242">
-  <img align="center"  margin="5px" width="30px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/logo%20hackerrank%20icon.png" />
-</a>
-<a href="https://www.linkedin.com/in/sahil-raja-1422b5143/">
-  <img align="center" margin="5px" width="35px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/icons8-linkedin.svg" />
-</a>
-<a href="https://www.codechef.com/users/sahil_0071">
-  <img align="center" margin="5px" width="35px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/codechef.png" />
-</a>
-<a href="https://medium.com/@sahilraja242">
-  <img align="center"  width="25px" margin="35px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/medium.png" />
-</a>
+  <img src="assets/terminal.svg" alt="Sahil Raja — software engineer working with Go, Kubernetes, Rust and eBPF" width="760" />
 </p>
-!-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaSahil" alt="rajaSahil" /> </p>
+
+<p align="center">
+  <a href="https://rajasahil.github.io">website</a> ·
+  <a href="https://medium.com/@sahilraja242">writing</a> ·
+  <a href="https://github.com/search?q=is%3Apr+author%3ArajaSahil+is%3Amerged&type=pullrequests">merged PRs</a>
+</p>
+
+<details>
+<summary><b>~/open-source</b> — where my PRs landed</summary>
 <br />
 
-- 🔭 I’m a Software Engineer working primarily in **Golang**, **Kubernetes** and **Rust**.
-- 🌱 I’m currently learning **Distributed systems**.
-- 👯 I’m looking to collaborate on **open source projects**.
-- 💬 Ask me about **tech related stuffs**.
-- 📫 How to reach me: [<a href="https://www.linkedin.com/in/sahil-raja-1422b5143/">
-  <img align="center" alt="" width="23px" src="https://github.com/rajaSahil/rajaSahil/blob/main/images/icons8-linkedin.svg" />
-  </a>](https://www.linkedin.com/in/sahil-raja-1422b5143/)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I love **coding**:computer: and **cats**:cat:.
+| project | what |
+|---|---|
+| [openebs/monitoring](https://github.com/openebs/monitoring) | monitoring add-on for OpenEBS — dashboards, alerts, mixins |
+| [openebs/mayastor-extensions](https://github.com/openebs/mayastor-extensions) | Mayastor control-plane extensions |
+| [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) | runtime security enforcement (eBPF / LSM) |
+| [accuknox/discovery-engine](https://github.com/accuknox/discovery-engine) | least-permissive security policy discovery |
+| [5GSEC/nimbus](https://github.com/5GSEC/nimbus) | intent-driven security automation |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes/pull/103059) | `pkg/errors` → native Go errors |
+| [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) | Prometheus monitoring stack for Kubernetes |
+| [kptdev/kpt](https://github.com/kptdev/kpt) | Kubernetes configuration automation |
+
+</details>
+
+<details>
+<summary><b>~/writing</b> — latest posts</summary>
 <br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
-
-### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Monitoring/Observability](https://medium.com/swlh/monitoring-observability-3fda4c33305e?source=rss-ddb3282b3e4d------2)
 - [Understanding OAuth 2.0](https://medium.com/swlh/understanding-oauth-2-0-dc7ef422d915?source=rss-ddb3282b3e4d------2)
 <!-- BLOG-POST-LIST:END -->
 
----
+</details>
+
+<details>
+<summary><b>~/whoami --verbose</b></summary>
+<br />
+
+- go, kubernetes, rust — mostly controllers, operators and the plumbing around them
+- curious about ebpf, storage and distributed systems
+- happy to collaborate on open source
+- pronouns: he/him
+
+</details>
+
+<p align="center">
+  <img src="assets/footer.svg" alt="" width="760" />
+</p>
