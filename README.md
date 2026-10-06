@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/terminal.svg" alt="Sahil Raja — software engineer working with Go, Kubernetes, Rust and eBPF" width="760" />
+  <a><img src="assets/terminal.svg" alt="Sahil Raja — software engineer working with Go, Kubernetes, Rust and eBPF" width="760" /></a>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
   <a href="https://medium.com/@sahilraja242"><img src="assets/btn-blog.svg" alt="writing" height="38" /></a>
 </p>
 
-<img src="assets/h-oss.svg" alt="ls ~/open-source" width="760" />
+<a><img src="assets/h-oss.svg" alt="ls ~/open-source" width="760" /></a>
 
 <p align="center">
   <a href="https://github.com/openebs/monitoring"><img src="assets/p-monitoring.svg" alt="openebs/monitoring" width="375" /></a>
@@ -18,11 +18,11 @@
   <a href="https://github.com/kubernetes/kubernetes"><img src="assets/p-kubernetes.svg" alt="kubernetes/kubernetes" width="375" /></a>
 </p>
 
-<img src="assets/h-stack.svg" alt="cat ~/stack" width="760" />
+<a><img src="assets/h-stack.svg" alt="cat ~/stack" width="760" /></a>
 
-<img src="assets/stack.svg" alt="Go, Rust, Kubernetes, eBPF, Prometheus, Grafana, Helm, Docker, Linux, gRPC, Jsonnet" width="760" />
+<a><img src="assets/stack.svg" alt="Go, Rust, Kubernetes, eBPF, Prometheus, Grafana, Helm, Docker, Linux, gRPC, Jsonnet" width="760" /></a>
 
-<img src="assets/h-writing.svg" alt="tail ~/writing" width="760" />
+<a href="https://medium.com/@sahilraja242"><img src="assets/h-writing.svg" alt="tail ~/writing" width="760" /></a>
 
 <p align="center">
   <a href="https://medium.com/swlh/monitoring-observability-3fda4c33305e"><img src="assets/w-observability.svg" alt="Monitoring/Observability" width="375" /></a>
@@ -39,13 +39,7 @@
 
 </details>
 
-<img src="assets/h-graph.svg" alt="git log --graph" width="760" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajaSahil/rajaSahil/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/rajaSahil/rajaSahil/output/github-snake.svg" alt="contribution graph being eaten by a snake" width="760" />
-</picture>
 
 <p align="center">
-  <img src="assets/footer.svg" alt="" width="760" />
+  <a><img src="assets/footer.svg" alt="" width="760" /></a>
 </p>
