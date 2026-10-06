@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="96" viewBox="0 0 375 96" role="img" aria-label="Understanding OAuth 2.0"><style>
+  .bg{fill:#ffffff;stroke:#d0d7de}
+  .fg{fill:#1f2328}.mute{fill:#656d76}.acc{fill:#0969da}.ok{fill:#1a7f37}
+  .ln{stroke:#d0d7de}
+  @media (prefers-color-scheme: dark){
+    .bg{fill:#0d1117;stroke:#30363d}
+    .fg{fill:#e6edf3}.mute{fill:#8b949e}.acc{fill:#58a6ff}.ok{fill:#3fb950}
+    .ln{stroke:#30363d}
+  }
+  text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:15px}
+
+  .b{font-weight:700}.s{font-size:12.5px}.xs{font-size:11.5px}
+  .track{fill:#eaeef2}.glow{stroke:#0969da}
+  @media (prefers-color-scheme: dark){.track{fill:#21262d}.glow{stroke:#58a6ff}}
+</style><rect x="0.5" y="0.5" width="374" height="95" rx="10" class="bg"/><rect x="0.5" y="0.5" width="374" height="95" rx="10" fill="none" class="glow" stroke-width="1.5" stroke-dasharray="942" stroke-dashoffset="942" opacity="0.9"><animate attributeName="stroke-dashoffset" from="942" to="0" dur="1.2s" begin="0.5s" fill="freeze"/><animate attributeName="opacity" from="0.9" to="0" dur="0.8s" begin="1.8s" fill="freeze"/></rect><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.7s" fill="freeze"/><text x="20" y="30" class="mute xs">medium · the startup</text><text x="20" y="56" class="fg b" style="font-size:15px">Understanding OAuth 2.0</text><rect x="20" y="64" width="0" height="2" class="acc"><animate attributeName="width" from="0" to="193" dur="0.9s" begin="1.2s" fill="freeze"/></rect><text x="355" y="82" text-anchor="end" class="acc xs">read ↗</text></g></svg>
