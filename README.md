@@ -29,15 +29,6 @@
   <a href="https://medium.com/swlh/understanding-oauth-2-0-dc7ef422d915"><img src="assets/w-oauth.svg" alt="Understanding OAuth 2.0" width="375" /></a>
 </p>
 
-<details>
-<summary><sub>full feed</sub></summary>
-
-<!-- BLOG-POST-LIST:START -->
-- [Monitoring/Observability](https://medium.com/swlh/monitoring-observability-3fda4c33305e?source=rss-ddb3282b3e4d------2)
-- [Understanding OAuth 2.0](https://medium.com/swlh/understanding-oauth-2-0-dc7ef422d915?source=rss-ddb3282b3e4d------2)
-<!-- BLOG-POST-LIST:END -->
-
-</details>
 
 
 <p align="center">
