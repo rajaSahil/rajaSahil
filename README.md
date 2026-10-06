@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://rajasahil.github.io"><img src="assets/btn-site.svg" alt="website" height="38" /></a>
   <a href="https://medium.com/@sahilraja242"><img src="assets/btn-blog.svg" alt="writing" height="38" /></a>
 </p>
 
